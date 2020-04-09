@@ -1,6 +1,6 @@
 // declare your functions here...
 function paragraphSelector(){
-
+  $('p')
 }
  // use an element selector to select the p tags in index.html and
  // return those elements. (Note that we're using the plural because
