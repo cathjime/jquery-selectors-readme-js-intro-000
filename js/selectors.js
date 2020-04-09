@@ -4,7 +4,7 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  $('img:last')
+  $('div img:last')
 }
 // use the last jQuery selector to
 //  return the last image in index.html.
