@@ -10,5 +10,5 @@ function lastImageSelector(){
 //  return the last image in index.html.
 
 function ninjaBabySelector(){
-  
+  $('#baby-ninja')
 }
