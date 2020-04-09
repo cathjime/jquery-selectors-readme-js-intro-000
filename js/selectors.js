@@ -18,7 +18,7 @@ function divSelector(){
 }
 
 function firstListItem (){
-  
+  $('div ul #pic-list:first-child')
 }
 // use a first-child selector to return the first
 // list item in the ul with the ID pic-list.
