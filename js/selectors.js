@@ -8,3 +8,7 @@ function lastImageSelector(){
 }
 // use the last jQuery selector to
 //  return the last image in index.html.
+
+function ninjaBabySelector(){
+  
+}
